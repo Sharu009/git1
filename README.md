@@ -1,4 +1,4 @@
-#!/bi/bash
+#!/bin/bash
 echo "what is your name "
 read name 
 echo "what is your age "
